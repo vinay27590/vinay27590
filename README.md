@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Vinay!+👋;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer;;I'm+a+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Vinay!+👋;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer;I'm+a+Full+Stack+Developer)
 <!-- <h1 align="center">Hi 👋, I'm Vinay Chouhan</h1> -->
 
 ## 🧐 About
