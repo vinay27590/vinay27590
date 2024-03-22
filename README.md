@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer;I'm+a+Mobile+App+Developer;;I'm+a+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Vinay!+👋;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer;;I'm+a+Full+Stack+Developer)
 <!-- <h1 align="center">Hi 👋, I'm Vinay Chouhan</h1> -->
 
 ## 🧐 About
@@ -10,7 +10,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### I am a Full Stack Developer at Vaionex Corporation
+### I am a Full Stack Developer at Direction Software LLP
 - 🌱 I’m currently learning Reack.js.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
