@@ -1,16 +1,23 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer;I'm+a+Mobile+App+Developer;;I'm+a+Full+Stack+Developer)
+<!-- <h1 align="center">Hi 👋, I'm Vinay Chouhan</h1> -->
 
-<!--
-**vinay27590/vinay27590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate Full-Stack Developer. Love to learn new skills and buils awsome Applications with latest tech available😄
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+### I am a Full Stack Developer at Vaionex Corporation
+- 🌱 I’m currently learning Reack.js.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2024 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+
+
