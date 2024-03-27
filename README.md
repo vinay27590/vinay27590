@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinay27590.vinay27590" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Vinay!+👋;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer;I'm+a+Full+Stack+Developer)
-<!-- <h1 align="center">Hi 👋, I'm Vinay Chouhan</h1> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Vinay!+👋;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer;I'm+a+Full+Stack+Developer" />
+</h1>
 
 ## 🧐 About
 
@@ -9,17 +10,36 @@
 </h3>
 
 <br>
-
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a Full Stack Developer at Direction Software LLP
-- 🌱 I’m currently learning Reack.js.
+- 🌱 I’m currently learning Reack.js, Next.js, Supabase.
 - 👯 I’m looking to collaborate with other Developers :wink:
+- 💬 Ask me about **Java, Spring Boot, React, Next.js, Vue.js, Firebase... or anything [here](https://github.com/vinay27590/vinay27590/issues)**
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
+<div align="center"> 
+  <a href="mailto:vinay77100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinaychouhan275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,vue,astro,nextjs,javascript,typescript,bootstrap,tailwind,html,css," />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,prisma,pinia,vercel,vite,docker,git,github,githubactions,idea,vscode" /><br>
+</div>
 
+<br/>
+<hr/>****
