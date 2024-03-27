@@ -13,7 +13,7 @@
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a Full Stack Developer at Direction Software LLP
-- 🌱 I’m currently learning Reack.js, Next.js, Supabase.
+- 🌱 I’m currently learning React.js, Next.js, Supabase.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about **Java, Spring Boot, React, Next.js, Vue.js, Firebase... or anything [here](https://github.com/vinay27590/vinay27590/issues)**
 - 🥅 2024 Goals: Contribute to Open Source projects
@@ -44,4 +44,12 @@
 </div>
 
 <br/>
-<hr/>****
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinay27590/vinay27590/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
