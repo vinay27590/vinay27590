@@ -62,7 +62,7 @@
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=vinay27590&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=vinay27590&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
 </div>
 <br/><br/>
 
