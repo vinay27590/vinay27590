@@ -62,7 +62,9 @@
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=vinay27590&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay27590&theme=dracula&" alt="vinay27590 streak" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay27590&layout=compact&theme=buefy&hide_border=true" />
+   
 </div>
 <br/><br/>
 
