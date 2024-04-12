@@ -6,7 +6,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Full-Stack Developer. Love to learn new skills and buils awsome Applications with latest tech available😄
+<h3 align="center">A passionate Full-Stack Developer. Love to learn new skills and builds awsome Applications with latest tech available😄
 </h3>
 
 <br>
